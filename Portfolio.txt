@@ -1,0 +1,141 @@
+    HTML -Assignment 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sndhiya seshathri- Portfolio</title>
+</head>
+<body style="background-image: url('https://images.unsplash.com/photo-1518770660439-4636190af475');
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+color: white;">
+<header>
+    <h1>Sandhiya seshathri</h1>
+    <p>Aspiring Full Stack Developer | Learning Web Technologies</p>
+</header>
+
+<hr>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Sandhiya. I am currently learning Full Stack Development
+        and improving my programming skills. I enjoy solving coding problems
+        and building simple projects. My goal is to become a skilled software
+        developer and work in a good tech company.
+    </p>
+</section>
+
+<hr>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>JavaScript</li>
+        <li>Git</li>
+        <li>Linux</li>
+        <li>SQL</li>
+    </ul>
+</section>
+
+<hr>
+
+<section>
+    <h2>Learning Goals</h2>
+    <ol>
+        <li>CSS</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>AWS</li>
+        <li>Docker</li>
+    </ol>
+</section>
+
+<hr>
+
+<section>
+    <h2>Projects</h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Project Name</th>
+            <th>Technology</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>Portfolio Website</td>
+            <td>HTML</td>
+            <td>Completed</td>
+        </tr>
+
+        <tr>
+            <td>Student Management System</td>
+            <td>Java, MySQL</td>
+            <td>In Progress</td>
+        </tr>
+
+        <tr>
+            <td>Online Quiz App</td>
+            <td>JavaScript</td>
+            <td>Planned</td>
+        </tr>
+    </table>
+
+</section>
+
+<hr>
+
+<section>
+    <h2>Profile Image</h2>
+    <img src="https://media.istockphoto.com/id/1473496306/photo/office-tablet-or-happy-business-people-collaboration-on-brand-advertising-sales-forecast-or.jpg?s=1024x1024&w=is&k=20&c=BwHpXUJTaQjgsQ3Rwnd2tlqqO_OfeaVs5X2ap9pMMUw=" width="200" alt="Sandhiya Profile Image">
+</section>
+
+<hr>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: sandhiyaseshathri@gmail.com</p>
+
+    <p>
+        GitHub:
+        <a href="https://github.com/" target="_blank">GitHub Profile</a>
+    </p>
+
+    <p>
+        LinkedIn:
+        <a href="https://www.linkedin.com/in/sandhiya-s-1a0925334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn Profile</a>
+    </p>
+</section>
+
+<hr>
+
+<section>
+    <h2>Contact Form</h2>
+
+    <form>
+
+        <label>Name:</label><br>
+        <input type="text" required><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" required><br><br>
+
+        <label>Message:</label><br>
+        <textarea rows="4" cols="30"></textarea><br><br>
+
+        <button type="submit">Submit</button>
+
+    </form>
+</section>
+
+<hr>
+
+<footer>
+    <p>© 2026 Sandhiya | Portfolio Website</p>
+</footer>
+
+</body>
+</html>
